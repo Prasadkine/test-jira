@@ -4,7 +4,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo "Building....."
-                // Run your build commands
+                // Run your build commandsh
             }
         }
         stage('Deploy') {
